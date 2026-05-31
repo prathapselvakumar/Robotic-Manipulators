@@ -78,8 +78,3 @@ The tasks within these notebooks rely heavily on the Python scientific stack:
    ```
 
 5. Navigate to the desired week's folder and open the corresponding `lessonX_continuous_assessment.ipynb` notebook to get started!
-
-## 🧑‍💻 Author
-
-**Prathap Selvakumar**
-*(Master's Coursework - Semester 2)*
